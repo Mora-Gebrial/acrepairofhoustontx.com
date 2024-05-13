@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /admin/
+
+Sitemap: https://carpetcleanerspearland.com/sitemap.xml
+Sitemap: https://carpetcleanerspearland.com/blog_sitemap.xml
